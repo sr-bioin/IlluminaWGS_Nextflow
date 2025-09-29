@@ -1,1 +1,1 @@
-# Whole-genome sequencing data from Staphylococcus aureus clinical isolates
+# Whole-genome sequencing of _Staphylococcus aureus_ clinical isolates
