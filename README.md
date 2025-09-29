@@ -2,9 +2,9 @@
 
 <h3>Software used in the pipeline.</h3>
 
-**FastQC** is widely used and is robust, efficient, and versatile quality control software for a varied range of raw genetic data. It outputs a quality report which can be viewed to give an indication on how good the respective reads are. For more information, please visit the FastQC website.
+**FastQC** is widely used and is robust, efficient, and versatile quality control software for a varied range of raw genetic data. It outputs a quality report which can be viewed to give an indication on how good the respective reads are https://github.com/s-andrews/FastQC.
 
-**MultiQC** is used create a single report with interactive plots for multiple bioinformatics analyses across many samples. It reports can describe multiple analysis steps and large numbers of samples within a single plot, and multiple analysis tools making it ideal for routine fast quality control. For more information, please visit the MultiQC website.
+**MultiQC** is used create a single report with interactive plots for multiple bioinformatics analyses across many samples. It reports can describe multiple analysis steps and large numbers of samples within a single plot, and multiple analysis tools making it ideal for routine fast quality control https://github.com/MultiQC/MultiQC.
 
 **Trim galore** is a wrapper script to automate quality and adapter trimming as well as quality control, with some added functionality to remove biased methylation positions for RRBS sequence files (for directional, non-directional (or paired-end) sequencing) https://github.com/FelixKrueger/TrimGalore.
 
@@ -12,12 +12,12 @@
 It is a pipeline for assembly of bacterial isolate genomes from Illumina paired-end reads. It uses SPAdes at its core, but alters the steps before and after the primary assembly step to get similar results in less time. Shovill also supports other assemblers like SKESA, Velvet and Megahit https://github.com/tseemann/shovill.
 
 **QUAST** <br>
-It is a quality assessment tool for evaluating and comparing genome assemblies by computing various metrics and works both with and without reference genomes. It produces many reports, summary tables and plots to help scientists in their research and in their publications. For more information, please visit the Quast website.
+It is a quality assessment tool for evaluating and comparing genome assemblies by computing various metrics and works both with and without reference genomes. It produces many reports, summary tables and plots to help scientists in their research and in their publications https://github.com/ablab/quast.
 
 **Prokka** <br>
 It is a software tool to annotate bacterial, archaeal and viral genomes quickly and produce standards-compliant output files. It identifies features of interest in a set of genomic DNA sequences, and labelling them with useful information https://github.com/tseemann/prokka.
 
-**Busco**
+**BUSCO** (Benchmarking Universal Single-Copy Orthologs) provides measures for quantitative assessment of genome assembly, gene set, and transcriptome completeness based on evolutionarily informed expectations of gene content from near-universal single-copy orthologs https://busco.ezlab.org/. 
 
 **MLST** Multilocus sequence typing (MLST) is an unambiguous procedure for characterising isolates of bacterial species using the sequences of internal fragments of (usually) seven house-keeping genes https://github.com/tseemann/mlst.
 
