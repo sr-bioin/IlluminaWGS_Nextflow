@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+SRR27322009.contigs.fa	contig00005	169902	170321	-	fosB-Saur	1-420/420	===============	0/0	100.00	99.05	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase	FOSFOMYCIN
+SRR27322009.contigs.fa	contig00006	160638	161990	-	tet(38)	1-1353/1353	===============	0/0	100.00	99.78	ncbi	NG_055984.1	tetracycline efflux MFS transporter Tet(38)	TETRACYCLINE

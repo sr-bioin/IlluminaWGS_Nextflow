@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+SRR27322011.contigs.fa	contig00001	350962	352314	-	tet(38)	1-1353/1353	===============	0/0	100.00	100.00	ncbi	NG_048133.1	tetracycline efflux MFS transporter Tet(38)	TETRACYCLINE
+SRR27322011.contigs.fa	contig00003	171216	171635	-	fosB-Saur	1-420/420	===============	0/0	100.00	99.76	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase	FOSFOMYCIN
+SRR27322011.contigs.fa	contig00016	6366	7211	-	blaZ	1-846/846	===============	0/0	100.00	100.00	ncbi	NG_047534.1	penicillin-hydrolyzing class A beta-lactamase BlaZ	BETA-LACTAM
+SRR27322011.contigs.fa	contig00016	7318	9075	+	blaR1	1-1758/1758	===============	0/0	100.00	97.27	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1	BETA-LACTAM
+SRR27322011.contigs.fa	contig00016	9065	9445	+	blaI_of_Z	1-381/381	===============	0/0	100.00	98.42	ncbi	NG_047499.1	penicillinase repressor BlaI	BETA-LACTAM

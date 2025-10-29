@@ -1,0 +1,13 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+SRR27322012.contigs.fa	contig00006	170887	171292	-	fosB-Saur	1-420/420	========/======	1/14	96.67	96.67	ncbi	NG_065844.1	FosB1/FosB3 family fosfomycin resistance bacillithiol transferase	FOSFOMYCIN
+SRR27322012.contigs.fa	contig00007	30269	31621	-	tet(38)	1-1353/1353	===============	0/0	100.00	100.00	ncbi	NG_048134.1	tetracycline efflux MFS transporter Tet(38)	TETRACYCLINE
+SRR27322012.contigs.fa	contig00007	114347	116353	+	mecA	1-2007/2007	===============	0/0	100.00	99.95	ncbi	NG_047940.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA	METHICILLIN
+SRR27322012.contigs.fa	contig00018	5354	6253	-	mph(C)	1-900/900	===============	0/0	100.00	100.00	ncbi	NG_047991.1	Mph(C) family macrolide 2'-phosphotransferase	MACROLIDE
+SRR27322012.contigs.fa	contig00018	6352	7818	-	msr(A)	1-1467/1467	===============	0/0	100.00	100.00	ncbi	NG_055998.1	ABC-F type ribosomal protection protein Msr(A)	MACROLIDE
+SRR27322012.contigs.fa	contig00018	9739	10269	+	sat4	1-543/543	========/======	1/12	97.79	97.79	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4	STREPTOTHRICIN
+SRR27322012.contigs.fa	contig00018	10362	11156	+	aph(3')-IIIa	1-795/795	===============	0/0	100.00	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa	AMIKACIN;KANAMYCIN
+SRR27322012.contigs.fa	contig00018	14359	14739	-	blaI_of_Z	1-381/381	===============	0/0	100.00	98.69	ncbi	NG_047499.1	penicillinase repressor BlaI	BETA-LACTAM
+SRR27322012.contigs.fa	contig00018	14729	16486	-	blaR1	1-1758/1758	===============	0/0	100.00	97.38	ncbi	NG_051774.1	beta-lactam sensor/signal transducer BlaR1	BETA-LACTAM
+SRR27322012.contigs.fa	contig00018	16593	17438	+	blaZ	1-846/846	===============	0/0	100.00	100.00	ncbi	NG_055997.1	penicillin-hydrolyzing class A beta-lactamase BlaZ	BETA-LACTAM
+SRR27322012.contigs.fa	contig00020	223	993	+	ant(4')-Ia	1-771/771	===============	0/0	100.00	99.87	ncbi	NG_047375.1	aminoglycoside O-nucleotidyltransferase ANT(4')-Ia	KANAMYCIN;TOBRAMYCIN
+SRR27322012.contigs.fa	contig00020	1210	1614	+	bleO	1-405/405	===============	0/0	100.00	99.75	ncbi	NG_047557.1	bleomycin binding protein	BLEOMYCIN

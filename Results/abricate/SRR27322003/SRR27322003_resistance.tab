@@ -1,0 +1,5 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+SRR27322003.contigs.fa	contig00013	4466	5311	-	blaZ	1-846/846	===============	0/0	100.00	96.69	ncbi	NG_055999.1	penicillin-hydrolyzing class A beta-lactamase BlaZ	BETA-LACTAM
+SRR27322003.contigs.fa	contig00013	5418	7175	+	blaR1	1-1758/1758	===============	0/0	100.00	92.61	ncbi	NG_047539.1	beta-lactam sensor/signal transducer BlaR1	BETA-LACTAM
+SRR27322003.contigs.fa	contig00013	7165	7545	+	blaI_of_Z	1-381/381	===============	0/0	100.00	95.01	ncbi	NG_047499.1	penicillinase repressor BlaI	BETA-LACTAM
+SRR27322003.contigs.fa	contig00015	44082	45434	+	tet(38)	1-1353/1353	===============	0/0	100.00	99.19	ncbi	NG_055983.1	tetracycline efflux MFS transporter Tet(38)	TETRACYCLINE
