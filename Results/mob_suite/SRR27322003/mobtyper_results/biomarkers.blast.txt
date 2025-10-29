@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+GQ900429_00012|MOBT	contig00002 len=266716 cov=56.6 corr=0 origname=NODE_2_length_266716_cov_56.585275_pilon sw=shovill-spades/1.1.0 date=20251024	363	266716	1	363	208770	209858	363	2	99.449	100.0	100.0	minus	0.0	756	relaxase

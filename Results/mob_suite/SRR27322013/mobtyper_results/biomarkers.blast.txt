@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+AF001314|MOBQ	contig00016 len=22451 cov=395.1 corr=0 origname=NODE_16_length_22451_cov_395.121422_pilon sw=shovill-spades/1.1.0 date=20251024	149	22451	1	149	14719	14867	149	0	100.0	100.0	100.0	minus	2.47e-75	276	oriT
+000261__GQ900456|rep_cluster_1017	contig00016 len=22451 cov=395.1 corr=0 origname=NODE_16_length_22451_cov_395.121422_pilon sw=shovill-spades/1.1.0 date=20251024	189	22451	1	178	14925	15101	178	12	92.697	94.0	94.0	minus	4.21e-69	255	replicon
+AP003139|rep_cluster_2100	contig00016 len=22451 cov=395.1 corr=0 origname=NODE_16_length_22451_cov_395.121422_pilon sw=shovill-spades/1.1.0 date=20251024	984	22451	1	984	15232	16215	984	4	99.593	100.0	100.0	minus	0.0	1796	replicon
+CP000737|rep_cluster_1733	contig00016 len=22451 cov=395.1 corr=0 origname=NODE_16_length_22451_cov_395.121422_pilon sw=shovill-spades/1.1.0 date=20251024	744	22451	1	744	16641	17384	744	0	100.0	100.0	100.0	plus	0.0	1375	replicon
+000268__U32369_00002|rep_cluster_1018	contig00018 len=4736 cov=57.0 corr=0 origname=NODE_18_length_4736_cov_56.968784_pilon sw=shovill-spades/1.1.0 date=20251024	1005	4736	1	1005	126	1130	1005	1	99.9	100.0	100.0	minus	0.0	1851	replicon
+NC_022618_00010|MOBV	contig00018 len=4736 cov=57.0 corr=0 origname=NODE_18_length_4736_cov_56.968784_pilon sw=shovill-spades/1.1.0 date=20251024	420	4736	1	420	1357	2616	420	16	96.19	100.0	100.0	minus	0.0	792	relaxase

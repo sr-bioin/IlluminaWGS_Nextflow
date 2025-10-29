@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+SRR27322013.contigs	chromosome			contig00021 len=1420 cov=411.0 corr=0 origname=NODE_21_length_1420_cov_411.045899_pilon sw=shovill-spades/1.1.0 date=20251024	1420	0.31197183098591547	b117406f754f9b65433bb1e5ada6e2cc	01330	JX204384	IS1181	ISL3	1394	1	1312	109	1420						

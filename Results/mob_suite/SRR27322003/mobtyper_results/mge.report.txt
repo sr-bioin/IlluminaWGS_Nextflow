@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+SRR27322003.contigs	chromosome			contig00002 len=266716 cov=56.6 corr=0 origname=NODE_2_length_266716_cov_56.585275_pilon sw=shovill-spades/1.1.0 date=20251024	266716	0.3246336927668381	8c66a38c2f7b9f141ee154de49980e13	00680	FR821777	ISSau5	IS30	14419	1	14419	196667	211085						
